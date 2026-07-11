@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "สมชาย",
+    "Department": "IT",
+    "Salary": 50000.0
+  },
+  {
+    "Id": 2,
+    "Name": "สมหญิง",
+    "Department": "HR",
+    "Salary": 45000.0
+  },
+  {
+    "Id": 3,
+    "Name": "Johny",
+    "Department": "Finance",
+    "Salary": 44553.0
+  },
+  {
+    "Id": 4,
+    "Name": "blueno",
+    "Department": "CCR",
+    "Salary": 23452.0
+  },
+  {
+    "Id": 5,
+    "Name": "beedwwed",
+    "Department": "BBD",
+    "Salary": 2334.0
+  },
+  {
+    "Id": 7,
+    "Name": "Woorawan11",
+    "Department": "DC22",
+    "Salary": 33442.0
+  },
+  {
+    "Id": 6,
+    "Name": "Woorawan",
+    "Department": "DC",
+    "Salary": 33442.0
+  }
+]

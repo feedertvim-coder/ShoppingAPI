@@ -1,0 +1,17 @@
+﻿[
+  {
+    "productId": 1,
+    "productName": "iPhone 16",
+    "price": 35900
+  },
+  {
+    "productId": 2,
+    "productName": "Samsung S25",
+    "price": 29900
+  },
+  {
+    "productId": 3,
+    "productName": "iPad Air",
+    "price": 24900
+  }
+]
